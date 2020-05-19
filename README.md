@@ -1,7 +1,7 @@
 # NMAT 2020 Exam Pattern
 The [NMAT exam](https://www.mbarendezvous.com/nmat/) will be conducted between 6th October 2020 till 19th December 2020 in five windows. There focus on three main focus areas - English, Quantitative Skills, and Logical Reasoning.
 
-The [NMAT exam pattern](https://www.mbarendezvous.com/articles/nmat-exam-pattern-changes/) 2020 has been revised and is as follows:
+The [NMAT exam pattern](https://www.mbarendezvous.com/nmat/nmat-exam-pattern/) 2020 has been revised and is as follows:
 
 1. There are three sections – Language Skills, Quantitative Skills, and Logical Reasoning.
 
